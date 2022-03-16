@@ -20,7 +20,7 @@ Para ejecutar este proyecto se deben seguir los siguientes paso:
   
 ### Hosting de alojamiento del proyecto
 
-Podrá ver el proyecto [aquí](https://danilooo99.github.io/angular-tryit/).
+Podrá ver el proyecto [aquí](https://confident-jennings-3affe6.netlify.app/).
 
 ## Tecnologías del Proyecto
 
