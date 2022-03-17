@@ -20,7 +20,7 @@ Para ejecutar este proyecto se deben seguir los siguientes paso:
   
 ### Hosting de alojamiento del proyecto
 
-Podrá ver el proyecto [aquí](https://tutorial1-angular-try-it.netlify.app/).
+Podrá ver el proyecto realizado [aquí](https://tutorial1-angular-try-it.netlify.app/).
 
 ## Tecnologías del Proyecto
 
